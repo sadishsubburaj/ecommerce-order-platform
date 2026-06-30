@@ -141,6 +141,9 @@ Core interview talking points this is designed to produce:
 
 ---
 
+## Future improvements (post-MVP)
+- Migrate Kafka from Zookeeper mode to KRaft mode (remove Zookeeper container, document the migration as its own step)
+
 ## Notes / Decisions Log
 *(Add entries here as we make architecture decisions, so context isn't lost)*
 
